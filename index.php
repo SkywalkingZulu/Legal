@@ -74,7 +74,7 @@ There are three things that differentiate us from traditional law firms:
        <footer>
             <br>
             <br>
-            <center>Powered by <p class="logo"> nectarine<p></center>
+            <center>Powered by <p class="logo"> Azania<p><br> Imagination is the new Genius <strong>Mxolisi Msweli</strong></center>
         </footer>
     </form>
 </body>
